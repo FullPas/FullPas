@@ -12,6 +12,7 @@ Soy un desarrollador web en formación, apasionado por crear aplicaciones comple
 Trabajo tanto Frontend como Backend, buscando siempre mejorar mi lógica, estructura y buenas prácticas.
 
 🛠️ Tecnologías que utilizo:
+<br>
 🔹 Lenguajes:
 Python
 JavaScript (ES6+)
@@ -40,16 +41,13 @@ Interfaces dinámicas con React
 Backend con Python + Flask
 Buenas prácticas y estructura de código
 SQL y manejo de bases de datos
-
-📂 Proyectos destacados:
-🔗 Proyecto 1 – Petconect
-🔗 Proyecto 2 – trabajando en ello
-
 </div>
 
 🤝 Conecta conmigo
+<br>
 Si quieres revisar mi progreso, colaborar o simplemente hablar sobre desarrollo, ¡estaré encantado!
 
 ✨ Gracias por visitar mi perfil!
+<br>
 Espero que este espacio te ayude a entender mi camino como desarrollador.
 ¡Seguimos construyendo y aprendiendo!
